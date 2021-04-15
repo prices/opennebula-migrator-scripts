@@ -1,6 +1,8 @@
 # opennebula-migrator-scripts
 These are the migrator scripts for OpenNebula.
 
+These instructions are written for me.  Use them at your own risk.
+
 # Purpose
 The purpose of this repository is just to store the scripts and documentation on how to use them.  They are not being modified at all.
 
