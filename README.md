@@ -1,5 +1,5 @@
 # opennebula-migrator-scripts
-These are the migrator scripts for OpenNebula.
+These are the migrator scripts for OpenNebula.  These are only the migrator scripts that are published by OpenNebula.  This is **NOT** a way to circumvent paying them to upgrade to the latest version.
 
 These instructions are written for me.  Use them at your own risk.
 
@@ -16,6 +16,8 @@ These files (execpt the Readme file) should be put into the shared/ and local/ f
 # sudo cp -vp shared/* /usr/lib/one/ruby/onedb/shared/
 # sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
 ~~~~~~~~
+
+After the files have been copied to these locations, 'onedb upgrade' should work.
 
 # Log
  * Taken from branch one-5.12 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-5.12/src/onedb)
