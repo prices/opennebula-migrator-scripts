@@ -10,6 +10,11 @@ If you have instructions for other operating systems, please email me or create 
 ## Ubuntu 18.04 and 20.04
 These files (execpt the Readme file) should be put into the shared/ and local/ folders in /usr/lib/one/ruby/onedb/
 
+~~~~~~~~.sh
+# sudo cp -vp shared/* /usr/lib/one/ruby/onedb/shared/
+# sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
+~~~~~~~~
+
 # Log
  * Taken from branch one-5.12 https://github.com/OpenNebula/one /src/onedb/
 
