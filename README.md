@@ -18,7 +18,7 @@ These files (execpt the Readme file) should be put into the shared/ and local/ f
 ~~~~~~~~
 
 # Log
- * Taken from branch one-5.12 https://github.com/OpenNebula/one /src/onedb/
+ * Taken from branch one-5.12 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-5.12/src/onedb)
 
 # License
 Apache 2.0
