@@ -3,6 +3,9 @@ These are the migrator scripts for OpenNebula.  These are only the migrator scri
 
 These instructions are written for me.  Use them at your own risk.
 
+## Most recent script
+5.10 -> 5.12 migrator
+
 # Purpose
 The purpose of this repository is just to store the scripts and documentation on how to use them.  They are not being modified at all.
 
