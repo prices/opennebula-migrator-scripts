@@ -16,8 +16,8 @@ If you have instructions for other operating systems, please email me or create 
 These files (execpt the Readme file) should be put into the shared/ and local/ folders in /usr/lib/one/ruby/onedb/
 
 ~~~~~~~~.sh
-# sudo cp -vp shared/* /usr/lib/one/ruby/onedb/shared/
-# sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
+sudo cp -vp shared/* /usr/lib/one/ruby/onedb/shared/
+sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
 ~~~~~~~~
 
 After the files have been copied to these locations, 'onedb upgrade' should work.
