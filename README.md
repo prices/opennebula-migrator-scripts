@@ -23,6 +23,8 @@ sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
 After the files have been copied to these locations, 'onedb upgrade' should work.
 
 # Log
+ * Taken from branch one-6.6 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.6/src/onedb)
+ * Taken from branch one-6.4 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.4/src/onedb)
  * Taken from branch one-6.0 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.0/src/onedb)
  * Taken from branch one-5.12 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-5.12/src/onedb)
 
