@@ -4,7 +4,7 @@ These are the migrator scripts for OpenNebula.  These are only the migrator scri
 These instructions are written for me.  Use them at your own risk.
 
 ## Most recent script
-5.12 -> 6.0 migrator
+7.0 -> 7.2 migrator
 
 # Purpose
 The purpose of this repository is just to store the scripts and documentation on how to use them.  They are not being modified at all.
@@ -12,7 +12,7 @@ The purpose of this repository is just to store the scripts and documentation on
 # Instructions
 If you have instructions for other operating systems, please email me or create a pull request.
 
-## Ubuntu 18.04 and 20.04
+## Ubuntu 18.04 ,20.04, 22.04, 24.04
 These files (execpt the Readme file) should be put into the shared/ and local/ folders in /usr/lib/one/ruby/onedb/
 
 ~~~~~~~~.sh
@@ -23,6 +23,7 @@ sudo cp -vp local/* /usr/lib/one/ruby/onedb/local/
 After the files have been copied to these locations, 'onedb upgrade' should work.
 
 # Log
+ * Taken from branch master https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/master/src/onedb)
  * Taken from branch one-6.6 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.6/src/onedb)
  * Taken from branch one-6.4 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.4/src/onedb)
  * Taken from branch one-6.0 https://github.com/OpenNebula/one /src/onedb/ (Direct link: https://github.com/OpenNebula/one/tree/one-6.0/src/onedb)
